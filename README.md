@@ -8,12 +8,12 @@
 		<tr>
 			<b>My 42 stats</b></br>
 		</tr>
-		<tr>
+		<!--tr>
 	<a href="https://github.com/gsod">
 				<img src="https://badge42.vercel.app/api/v2/cl3fwxmuu002509l4a9fnzm1a/stats?cursusId=21&coalitionId=125">
 			</a>
 		</tr>
-	</table>
+	</table-->
 	<table>
 		<tr>
 			<b>My GitHub stats</b>
