@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @gsod (Giuseppe)
 - 🖥 I’m currently student at 42Roma Luiss
 - ⌨️ I’m currently learning C, C++, Unix, Virtual machines
-- 📫 Reach me -> ffrau@student.42roma.it
+- 📫 Reach me -> g.sodano01@gmail.com
 <div align="center">
 	<table>
 		<tr>
