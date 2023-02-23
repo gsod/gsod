@@ -1,7 +1,7 @@
 # Hi there 👋
 - 👋 Hi, I’m @gsod (Giuseppe)
 - 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Unix, Virtual machines
+- ⌨️ I’m currently learning C, C++, Unix, Virtual machines, HTML, CSS, JavaScript
 - 📫 Reach me -> g.sodano01@gmail.com
 <div align="center">
 	<table>
