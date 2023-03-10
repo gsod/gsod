@@ -22,7 +22,7 @@
 		<tr>
 			<td>
 				<a href="https://github.com/gsod">
-					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/FranFrau?cardType=level&theme=tokyonight" width="397" height="200">
+					<img src="https://awesome-github-stats.azurewebsites.net/user-stats/gsod?cardType=level&theme=tokyonight" width="397" height="200">
 				</a> 
 			</td>
 			<td>
