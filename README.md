@@ -9,8 +9,11 @@
 			<b>My 42 stats</b></br>
 		</tr>
 		<!--tr>
-	<a href="https://github.com/gsodano/badge42"><img src="https://badge42.vercel.app/api/v2/cldxbe3au00060gjod87l1o2a/stats?cursusId=21&coalitionId=124" alt="gsodano's 42 stats" /></a>
-			</a>
+	<a href="https://github.com/gsodano">
+		<img src="https://badge42.vercel.app/api/v2/cldxbe3au00060gjod87l1o2a/stats?cursusId=21&coalitionId=124"
+ 			style="max-width: 100%;"/>
+
+	</a>
 		</tr>
 	</table-->
 	<table>
