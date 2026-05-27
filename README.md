@@ -1,22 +1,13 @@
 # Hi there 👋
 - 👋 Hi, I’m @gsodano (Giuseppe)
-- 🖥 I’m currently student at 42Roma Luiss
-- ⌨️ I’m currently learning C, C++, Unix, Virtual machines, HTML, CSS, JavaScript, HTML
+- 🖥 I studied at 42Roma Luiss
+- ⌨️ I learned C, C++, Unix, Virtual machines, HTML, CSS, JavaScript, HTML
+- I'm working at Sielte Spa
 - 📫 Reach me -> g.sodano01@gmail.com
 
-<div align="center">
-	<table>
-		<tr>
-			<b>My 42 stats</b></br>
-		</tr>
-		<tr>
+
 			<a href="https://github.com/gsod">
-				<img src="https://badge42.vercel.app/api/v2/cldxbe3au00060gjod87l1o2a/stats?cursusId=21&coalitionId=124">
-			</a>
-		</tr>
-	</table>
-	<table>
-		<tr>
+				<img 
 			<b>My GitHub stats</b>
 		</tr>
 		<tr>
